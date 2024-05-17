@@ -1,6 +1,7 @@
-package com.example
+package com.religada.servernotes
 
-import com.example.plugins.*
+import com.religada.servernotes.plugins.*
+import com.religada.servernotes.plugins.configureRouting
 import io.ktor.server.application.*
 import io.ktor.server.engine.*
 import io.ktor.server.netty.*
